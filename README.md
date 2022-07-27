@@ -25,4 +25,4 @@ To set up the Git command line, follow these [instructions](https://docs.github.
 1. [Hesborn Omwandho](https://github.com/hesbornomwandho)
 2. [enezermjema](https://github.com/enezermjema)
 
-Training at Pwani University Bioscience Research Center at Bioinformatics Complex building.
+Training at Pwani University Bioscience Research Center in Bioinformatics Complex building.
