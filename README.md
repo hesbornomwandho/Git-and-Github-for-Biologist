@@ -13,3 +13,7 @@ To set up the Git command line, follow these [instructions](https://docs.github.
 1. [Introduction to Git and Github](https://docs.google.com/presentation/d/13-Sd_gyLw5etqpzSMgArHMWABFMp-n98/edit#slide=id.p1)
 2. [Git-cheet-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 3. [Git Exercises](https://github.com/martinjrobins/exercise)
+
+## Instructors
+1. [Hesborn Omwandho](https://github.com/hesbornomwandho)
+2. [enezermjema](https://github.com/enezermjema)
