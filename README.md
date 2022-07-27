@@ -10,6 +10,9 @@ This  promotes open and reproducible science.
 
 To set up the Git command line, follow these [instructions](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
+![Screenshot 2022-07-27 at 15 59 51](https://user-images.githubusercontent.com/72735085/181252935-128c5a29-1f3c-46a0-ba70-b13ebcd1e58b.png)
+
+
 
 ## Content
 
